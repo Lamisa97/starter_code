@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004972009263",
+    "project_id": "map-exam-notes",
+    "storage_bucket": "map-exam-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004972009263:android:953395dcbc85d0aed463da",
+        "android_client_info": {
+          "package_name": "com.example.map_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004972009263-81kvpa5651igoa8o2kp7uc397c72sk26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_aPjYqq5cD8t07eJBI2hUB2N5mhN5kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004972009263-81kvpa5651igoa8o2kp7uc397c72sk26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
